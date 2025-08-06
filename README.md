@@ -17,6 +17,15 @@ A countdown timer for RemNote flashcards that uses your past response times to h
 4. Timer stops when you reveal the answer
 5. Builds better time awareness over multiple sessions
 
+### Example
+
+![Focus Timer Example](https://raw.githubusercontent.com/oxdev03/remnote-focus-timer/main/example.png)
+
+The example shows two cases:
+
+- **1** Card with a avg time of 23 seconds and was answered in 19 seconds. The timer stops once the answer is revealed and is displayed in green.
+- **2** Card with a avg time of 23 seconds and was answered in 24 seconds. The timer is already above the avg time, so it is displayed in red. The timer will continue to run until the answer is revealed, at which point it will be displayed in red.
+
 ## Display
 
 - **Green**: You're doing well compared to your past times for this card
