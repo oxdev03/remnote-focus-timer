@@ -1,7 +1,7 @@
 {
   "author": "oxdev03",
   "name": "Focus Timer",
-  "description": "A simple countdown timer for RemNote flashcards that helps you stay focused during review sessions and stop procrastinating by gamifying faster recalls.",
+  "description": "A countdown timer for RemNote flashcards that uses your historical response times to create personalized targets, helping you stay focused and gamify faster recalls.",
   "enableOnMobile": true,
   "repoUrl": "https://github.com/oxdev03/remnote-focus-timer.git",
   "id": "oxdev03-focus-timer",
