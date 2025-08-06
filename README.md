@@ -1,16 +1,13 @@
 # RemNote Focus Timer
 
-A simple countdown timer for RemNote flashcards that helps you stay focused during review sessions.
-
-**Reasons why you need this:**
-- Stop procrastinating
-- Gameify faster recalls
+A simple countdown timer for RemNote flashcards that helps you stay focused during review sessions and stop procrastinating by gamifying faster recalls.
 
 ## Features
 
 - 🎯 **Card-specific timer**: Uses the RemNote repetition history for the card to calculate target times
 - ⏱️ **Smart countdown**: Shows time remaining based on your average performance
 - 🎨 **Visual feedback**: Green → Orange → Red as time runs out and shows your response time
+- 🎮 **Gamification**: Turn review sessions into a focused challenge against your own times
 
 ## How it works
 
