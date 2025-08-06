@@ -1,17 +1,16 @@
 {
+  "author": "oxdev03",
+  "name": "Focus Timer",
+  "description": "Stay focused and in flow during your study sessions. The plugin adds a countdown based on your last answer time, helping you to improve recall performance and reduce distraction.",
+  "enableOnMobile": true,
+  "repoUrl": "https://github.com/oxdev03/remnote-focus-timer.git",
+  "id": "oxdev03-focus-timer",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {
